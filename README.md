@@ -19,7 +19,6 @@
 
 # Tech Stack
 ### FrontEnd
-* BootStrap
 * JSP
 
 ### Backend
