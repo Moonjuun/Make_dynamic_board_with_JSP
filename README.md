@@ -1,5 +1,7 @@
 # Make_dynamic_board_with_JSP
 
+<iframe title="'Juun 개발 기록'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/428351392?service=player_share" allowfullscreen frameborder="0" scrolling="no" allow="autoplay; fullscreen; encrypted-media"></iframe>
+
 ## Purpose
 수업 시간에 배운 JSP를 통해 반응형 게시판을 만들어봤습니다 </br>
 
@@ -27,7 +29,7 @@
 
 ## Technical Log
 따로 혼자서 구글링, 유튜브를 통해 검색하며 구현한 기본적인 게시판입니다. </br>
-이 때는 스프링, MyBatis 를 몰라서 MySQL로 DB를 구축한 후 자바빈즈를 통해 DB에 연결시켜줬습니다.
+이 때는 스프링, MyBatis 를 몰라서 MySQL로 DB를 구축한 후 자바빈즈를 통해 DB에 연결시켜줬습니다.</br>
 세션을 통해서 게시판에 글쓰기, 수정, 삭제 기능을 접근하게 설정했습니다.
 
 
