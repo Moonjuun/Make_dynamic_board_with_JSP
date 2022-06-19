@@ -1,5 +1,6 @@
 # Make_dynamic_board_with_JSP
 
+https://tv.kakao.com/v/428351392
 
 ## Purpose
 수업 시간에 배운 JSP를 통해 반응형 게시판을 만들어봤습니다 </br>
