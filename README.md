@@ -1,6 +1,6 @@
 # Make_dynamic_board_with_JSP
 
-<iframe title="'Juun 개발 기록'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/428351392?service=player_share" allowfullscreen frameborder="0" scrolling="no" allow="autoplay; fullscreen; encrypted-media"></iframe>
+<iframe width="560" height="315" src="https://www.tv.kakao.com/embed/428351392" frameborder="0" allowfullscreen></iframe>
 
 ## Purpose
 수업 시간에 배운 JSP를 통해 반응형 게시판을 만들어봤습니다 </br>
